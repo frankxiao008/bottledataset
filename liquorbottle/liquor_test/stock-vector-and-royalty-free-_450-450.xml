@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor_test</folder>
+	<filename>f81d322e38c079edcf46fc370f8c12a0_21619-liquor-bottle-cliparts-stock-vector-and-royalty-free-_450-450.jpeg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor_test\f81d322e38c079edcf46fc370f8c12a0_21619-liquor-bottle-cliparts-stock-vector-and-royalty-free-_450-450.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>32</ymin>
+			<xmax>245</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

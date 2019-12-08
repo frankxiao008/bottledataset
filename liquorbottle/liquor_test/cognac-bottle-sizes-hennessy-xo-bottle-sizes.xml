@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor_test</folder>
+	<filename>hennessy-bottle-sizes-how-much-is-a-bottle-of-leave-a-review-liquor-bottle-sizes-chart-hennessy-vs-cognac-bottle-sizes-hennessy-xo-bottle-sizes.jpg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor_test\hennessy-bottle-sizes-how-much-is-a-bottle-of-leave-a-review-liquor-bottle-sizes-chart-hennessy-vs-cognac-bottle-sizes-hennessy-xo-bottle-sizes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>7</ymin>
+			<xmax>294</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

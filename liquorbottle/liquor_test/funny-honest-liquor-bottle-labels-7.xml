@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor_test</folder>
+	<filename>funny-honest-liquor-bottle-labels-7.jpg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor_test\funny-honest-liquor-bottle-labels-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>27</ymin>
+			<xmax>376</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

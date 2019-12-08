@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor</folder>
+	<filename>LiquorBottle.jpg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor\LiquorBottle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>11</ymin>
+			<xmax>189</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor</folder>
+	<filename>Lanis_Fireball_Label_with_Merry_Christmas_2_WM_BTL_1024x1024.jpg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor\Lanis_Fireball_Label_with_Merry_Christmas_2_WM_BTL_1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>732</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>27</ymin>
+			<xmax>546</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

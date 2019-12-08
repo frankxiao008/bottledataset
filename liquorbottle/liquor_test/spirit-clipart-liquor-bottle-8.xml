@@ -1,0 +1,26 @@
+<annotation>
+	<folder>liquor_test</folder>
+	<filename>spirit-clipart-liquor-bottle-8.jpg</filename>
+	<path>C:\Users\sxiao15\Downloads\images\liquor_test\spirit-clipart-liquor-bottle-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>12</ymin>
+			<xmax>465</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>
